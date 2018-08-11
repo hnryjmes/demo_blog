@@ -59,8 +59,8 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   # Guard is a command line tool to easily handle events on file system modifications. https://guardgem.org
   gem 'guard', '~> 2.14', '>= 2.14.2'
-  # Guard::LiveReload automatically reload your browser when 'view' files are modified. 
-  gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
+  # Guard::LiveReload automatically reload your browser when 'view' files are modified.
+  gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
 end
 
 group :test do
