@@ -1,5 +1,5 @@
 # README
-
+![alt text](https://github.com/hnryjmes/demo_blog/blob/master/Screen%20Shot%202018-08-11%20at%2019.41.44.png?raw=true "Screenshot")
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
