@@ -1,24 +1,16 @@
 # README
 ![alt text](https://github.com/hnryjmes/demo_blog/blob/master/Screen%20Shot%202018-08-11%20at%2019.41.44.png?raw=true "Screenshot")
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+I can now use...
 
-* Ruby version
+* Ruby
 
-* System dependencies
+* Rails
 
-* Configuration
+* Ruby on Rails
 
-* Database creation
+* various gems
 
-* Database initialization
+* Heroku (!)
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* I still suck at CSS
